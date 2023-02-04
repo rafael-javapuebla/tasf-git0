@@ -4,7 +4,7 @@ public class Clase2 {
 	public static void main(String[] args) {
 		System.out.println("Version 5");
 		System.out.println("Version 6 ultima funcionalidad 1");
-		
-        System.out.println("Version 8 revive 2");
+
+		System.out.println("Version 8 revivie 1");
 	}
 }
